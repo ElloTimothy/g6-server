@@ -1,0 +1,3 @@
+U-1,Y-2	4	galvin	boy     replace	15:33:1	45556
+1,2	0	boy	young	delete	15:33:1	45556
+0	0	young	galvin	double	15:33:1	45556
